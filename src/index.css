@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Spline+Sans+Mono:ital,wght@0,300..700;1,300..700&display=swap');
+
+@import "tailwindcss";
+
+@import "tailwindcss/theme.css" layer(theme);
+@import "tailwindcss/preflight.css" layer(base);
+@import "tailwindcss/utilities.css" layer(utilities);
+
+
+
+@theme {
+
+  --color-primary: #000000;
+  --color-primaryOffset: #111318;
+  --color-secondary: #ffffff;
+  --color-secondaryOffset: #E0E0E0;
+
+
+  --color-accent: #D4AF39;
+
+  --font-body: "Spline Sans Mono", monospace;
+
+
+}
