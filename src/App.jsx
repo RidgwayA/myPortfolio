@@ -1,5 +1,5 @@
 // import React, { useEffect } from 'react';
-import Landing from './components/landing';
+import Landing from './components/Landing';
 import About from './components/About';
 import Experience from './components/Experience';
 import Projects from './components/Projects';
